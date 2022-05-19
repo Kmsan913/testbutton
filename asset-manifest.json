@@ -1,15 +1,15 @@
 {
-  "files": {
-    "main.css": "/testbutton/static/css/main.073c9b0a.css",
-    "main.js": "/testbutton/static/js/main.087adcb2.js",
-    "static/js/787.7525ee21.chunk.js": "/testbutton/static/js/787.7525ee21.chunk.js",
-    "index.html": "/testbutton/index.html",
-    "main.073c9b0a.css.map": "/testbutton/static/css/main.073c9b0a.css.map",
-    "main.087adcb2.js.map": "/testbutton/static/js/main.087adcb2.js.map",
-    "787.7525ee21.chunk.js.map": "/testbutton/static/js/787.7525ee21.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.087adcb2.js"
-  ]
+  "main.css": "/testbutton/static/css/main.9fcc71eb.chunk.css",
+  "main.js": "/testbutton/static/js/main.b312d9df.chunk.js",
+  "main.js.map": "/testbutton/static/js/main.b312d9df.chunk.js.map",
+  "static/js/1.a322975c.chunk.js": "/testbutton/static/js/1.a322975c.chunk.js",
+  "static/js/1.a322975c.chunk.js.map": "/testbutton/static/js/1.a322975c.chunk.js.map",
+  "static/js/2.559da495.chunk.js": "/testbutton/static/js/2.559da495.chunk.js",
+  "static/js/2.559da495.chunk.js.map": "/testbutton/static/js/2.559da495.chunk.js.map",
+  "runtime~main.js": "/testbutton/static/js/runtime~main.a937fb08.js",
+  "runtime~main.js.map": "/testbutton/static/js/runtime~main.a937fb08.js.map",
+  "static/css/main.9fcc71eb.chunk.css.map": "/testbutton/static/css/main.9fcc71eb.chunk.css.map",
+  "index.html": "/testbutton/index.html",
+  "precache-manifest.f6001020c1a7afd9258a5412f16a44b3.js": "/testbutton/precache-manifest.f6001020c1a7afd9258a5412f16a44b3.js",
+  "service-worker.js": "/testbutton/service-worker.js"
 }
